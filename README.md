@@ -5,4 +5,4 @@ To add a word, press i and enter the word. Add some words. To show suggesstions,
 press s. Enter first 1-2 characters of the words you want the suffix for.
 Let's say you have added Bangalore word already and you'd like to search for it.
 Entering "Ban" will show every word in the Trie that you've added and starts from
-"Ban". It should show Bangalore too, it it's been added.
+"Ban". It should show Bangalore too, if it's been added.
