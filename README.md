@@ -1,5 +1,6 @@
 # Trie-Implementation-in-Java
 Implementing trie data-structure to get automatic suffix suggestions.
+Please use only Lowercase characters for the time being.
 Run the main file. It asks for actions. Delete has not been implemented yet.
 To add a word, press i and enter the word. Add some words. To show suggesstions,
 press s. Enter first 1-2 characters of the words you want the suffix for.
